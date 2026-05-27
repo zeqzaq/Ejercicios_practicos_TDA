@@ -1,0 +1,16 @@
+pila_undo = []
+
+def escribir(texto):
+    pila_undo.append(texto)
+
+def deshacer():
+    if len(pila_undo) > 0:
+        return pila_undo.pop()
+    return "Nada para deshacer"
+
+# Prueba
+escribir("Hola")
+escribir("Mundo")
+
+print("Deshacer:", deshacer())
+print("Estado actual:", pila_undo)
