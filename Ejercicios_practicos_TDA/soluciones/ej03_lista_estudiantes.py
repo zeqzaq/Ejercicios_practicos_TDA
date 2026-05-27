@@ -1,3 +1,6 @@
+# Cristian Marquez Arcila
+# Valery Torres
+
 class ListaEstudiantes:
     def __init__(self):
         self.estudiantes = []

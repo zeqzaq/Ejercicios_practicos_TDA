@@ -1,3 +1,6 @@
+# Cristian Marquez Arcila
+# Valery Torres
+
 usuarios = []
 
 def crear(nombre):

@@ -1,3 +1,6 @@
+# Cristian Marquez Arcila
+# Valery Torres
+
 carrito = []
 
 def agregar_producto(producto):

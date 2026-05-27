@@ -1,3 +1,6 @@
+# Cristian Marquez Arcila
+# Valery Torres
+
 pila_undo = []
 
 def escribir(texto):

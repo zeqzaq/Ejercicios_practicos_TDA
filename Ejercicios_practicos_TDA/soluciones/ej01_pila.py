@@ -1,3 +1,6 @@
+# Cristian Marquez Arcila
+# Valery Torres
+
 class Pila:
     def __init__(self):
         self.elementos = []

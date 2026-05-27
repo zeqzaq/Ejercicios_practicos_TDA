@@ -1,3 +1,6 @@
+# Cristian Marquez Arcila
+# Valery Torres
+
 cola = []
 
 cola.append("cliente 1")

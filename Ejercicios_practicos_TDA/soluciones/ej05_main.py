@@ -1,3 +1,6 @@
+# Cristian Marquez Arcila
+# Valery Torres
+
 import ej05_modulo_carrito
 
 ej05_modulo_carrito.agregar_producto("Mouse")
